@@ -12,6 +12,9 @@ public class AtmProject {
         System.out.println("ismail branch'i kodlarını yazdı.");
         //version isml1
 
+        System.out.println();
+        //localde değişiklik yaptım.
+
     }
 
 }
